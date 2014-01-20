@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="numberfour" size="202.702698 300">
+            <VirtualButton name="numberfour" rectangle="-101 150 101 -150" enabled="true" />
+        </ImageTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="numberfour" size="202.702698 300">
+            <VirtualButton name="numberfour" rectangle="-101 150 101 -150" enabled="true" />
+        </ImageTarget>
+        <ImageTarget name="hp72" size="222.718109 329">
+        <VirtualButton name="hp72" rectangle="-111 165 111 -165" enabled="true" />
+        </ImageTarget>
+        <ImageTarget name="ironman2" size="202.264709 299">
+        <VirtualButton name="ironman2" rectangle="-101 150 101 -150" enabled="true" />
+        </ImageTarget>
+        <ImageTarget name="hangover" size="195.58139 290">
+        <VirtualButton name="hangover" rectangle="-100 145 100 -145" enabled="true" />
+        </ImageTarget>
+    </Tracking>
+</QCARConfig>

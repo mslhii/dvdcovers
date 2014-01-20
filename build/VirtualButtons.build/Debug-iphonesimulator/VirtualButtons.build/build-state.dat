@@ -1,0 +1,903 @@
+TVirtualButtons
+v7
+r0
+t339037281.335481
+cCheck dependencies
+cProcessInfoPlistFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Info.plist VirtualButtons/VirtualButtons-Info.plist
+cProcessPCH /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-cfeyygknahcpljbdduzvodszrawl/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/main.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ARViewController.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/Texture.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ShaderUtils.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/EAGLView.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtonsAppDelegate.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons normal i386
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/config.xml VirtualButtons/assets/config.xml
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/qcar-resources.dat VirtualButtons/assets/qcar-resources.dat
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBlue.png VirtualButtons/assets/TextureTeapotBlue.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBrass.png VirtualButtons/assets/TextureTeapotBrass.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotGreen.png VirtualButtons/assets/TextureTeapotGreen.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotRed.png VirtualButtons/assets/TextureTeapotRed.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotYellow.png VirtualButtons/assets/TextureTeapotYellow.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/Default.png VirtualButtons/Default.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/Icon-Small.png VirtualButtons/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/Icon.png VirtualButtons/Icon.png
+cCpResource build/Debug-iphonesimulator/VirtualButtons.app/Default-Landscape.png Resources-iPad/Default-Landscape.png
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004D5C9AE3000000000006A720
+t1297914595
+s436000
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004D54D0CD0000000000019010
+t1297404109
+s102416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004D54D24F000000000000094F
+t1297404495
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004D54D24F0000000000009369
+t1297404495
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004D54D24F0000000000003C4A
+t1297404495
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004D54D24F00000000000092AA
+t1297404495
+s37546
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004D54D24F00000000000026AA
+t1297404495
+s9898
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004D54D28100000000000191D0
+t1297404545
+s102864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D54CEFE0000000000088380
+t1297403646
+s557952
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Area.h
+c000000004E8264C90000000000000317
+t1317168329
+s791
+i<QCAR/QCAR.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/CameraCalibration.h
+c000000004E8264C9000000000000048E
+t1317168329
+s1166
+i<QCAR/Vectors.h>
+i<QCAR/NonCopyable.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/CameraDevice.h
+c000000004E8264C90000000000000E6F
+t1317168329
+s3695
+i<QCAR/NonCopyable.h>
+i<QCAR/VideoMode.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Frame.h
+c000000004E8264C90000000000000843
+t1317168329
+s2115
+i<QCAR/QCAR.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/ImageTarget.h
+c000000004E8264C900000000000007EB
+t1317168329
+s2027
+i<QCAR/Trackable.h>
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Matrices.h
+c000000004E8264C90000000000000301
+t1317168329
+s769
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/NonCopyable.h
+c000000004E8264C900000000000003A4
+t1317168329
+s932
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/QCAR.h
+c000000004E8264C900000000000018F2
+t1317168329
+s6386
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Rectangle.h
+c000000004E8264C900000000000004C4
+t1317168329
+s1220
+i<QCAR/Area.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Renderer.h
+c000000004E8264C90000000000000842
+t1317168329
+s2114
+i<QCAR/Matrices.h>
+i<QCAR/Vectors.h>
+i<QCAR/State.h>
+i<QCAR/NonCopyable.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/State.h
+c000000004E8264C900000000000009EB
+t1317168329
+s2539
+i<QCAR/System.h>
+i<QCAR/Frame.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/System.h
+c000000004E8264C90000000000000433
+t1317168329
+s1075
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Tool.h
+c000000004E8264C90000000000000D09
+t1317168329
+s3337
+i<QCAR/System.h>
+i<QCAR/Matrices.h>
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Trackable.h
+c000000004E8264C90000000000000964
+t1317168329
+s2404
+i<QCAR/NonCopyable.h>
+i<QCAR/Matrices.h>
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Tracker.h
+c000000004E8264C9000000000000112B
+t1317168329
+s4395
+i<QCAR/CameraCalibration.h>
+i<QCAR/NonCopyable.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/UIGLViewProtocol.h
+c000000004E8264C9000000000000039C
+t1317168329
+s924
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/UpdateCallback.h
+c000000004E8264C90000000000000320
+t1317168329
+s800
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Vectors.h
+c000000004E8264C900000000000007E8
+t1317168329
+s2024
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VideoBackgroundConfig.h
+c000000004E8264C90000000000000727
+t1317168329
+s1831
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VideoMode.h
+c000000004E8264C90000000000000313
+t1317168329
+s787
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VirtualButton.h
+c000000004E8264C90000000000000AD8
+t1317168329
+s2776
+i<QCAR/NonCopyable.h>
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/../../build/lib/arm/libQCAR.a
+c000000004E8264CA000000000053BA78
+t1317168330
+s5487224
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/Resources-iPad/Default-Landscape.png
+c000000004E8264CC000000000001AF93
+t1317168332
+s110483
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.h
+c000000004E8264CC00000000000001B2
+t1317168332
+s434
+i<UIKit/UIKit.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m
+c000000004E8264CC0000000000000256
+t1317168332
+s598
+i"ARViewController.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Default.png
+c000000004E8264CC0000000000004ED3
+t1317168332
+s20179
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.h
+c000000004E8264CC00000000000008A6
+t1317168332
+s2214
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+i<QCAR/Tool.h>
+i<QCAR/UIGLViewProtocol.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm
+c000000004E8264CC000000000000947A
+t1317168332
+s38010
+i<QuartzCore/QuartzCore.h>
+i"EAGLView.h"
+i<QCAR/QCAR.h>
+i<QCAR/CameraDevice.h>
+i<QCAR/Tracker.h>
+i"Texture.h"
+i"Teapot.h"
+i<QCAR/VideoBackgroundConfig.h>
+i<QCAR/Renderer.h>
+i<QCAR/Tool.h>
+i<QCAR/Trackable.h>
+i<QCAR/ImageTarget.h>
+i<QCAR/Rectangle.h>
+i<QCAR/VirtualButton.h>
+i<QCAR/UpdateCallback.h>
+i"ShaderUtils.h"
+i"Shaders/CubeShader.fsh"
+i"Shaders/CubeShader.vsh"
+i"Shaders/LineShader.fsh"
+i"Shaders/LineShader.vsh"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon-Small.png
+c000000004E8264CC0000000000001180
+t1317168332
+s4480
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon.png
+c000000004E8264CC0000000000001B51
+t1317168332
+s6993
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp
+c000000004E8264CC00000000000015EB
+t1317168332
+s5611
+i<math.h>
+i<stdio.h>
+i"ShaderUtils.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.h
+c000000004E8264CC000000000000072A
+t1317168332
+s1834
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/CubeShader.fsh
+c000000004E8264CC00000000000001E7
+t1317168332
+s487
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/CubeShader.vsh
+c000000004E8264CC0000000000000287
+t1317168332
+s647
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/LineShader.fsh
+c000000004E8264CC00000000000001A6
+t1317168332
+s422
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/LineShader.vsh
+c000000004E8264CC00000000000001E4
+t1317168332
+s484
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Teapot.h
+c000000004E8264CC0000000000014CF4
+t1317168332
+s85236
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.h
+c000000004E8264CC00000000000002A7
+t1317168332
+s679
+i<Foundation/Foundation.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm
+c000000004E8264CC0000000000000921
+t1317168332
+s2337
+i"Texture.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch
+c000000004E8264CC000000000000014E
+t1317168332
+s334
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.h
+c000000004E8264CC0000000000000209
+t1317168332
+s521
+i<UIKit/UIKit.h>
+i"EAGLView.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm
+c000000004E8264CC00000000000006BC
+t1317168332
+s1724
+i"VirtualButtonsAppDelegate.h"
+i"ARViewController.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBlue.png
+c000000004E8264CC000000000000DBAC
+t1317168332
+s56236
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBrass.png
+c000000004E8264CC000000000000CD8B
+t1317168332
+s52619
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotGreen.png
+c000000004E8264CC000000000000E54A
+t1317168332
+s58698
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotRed.png
+c000000004E8264CC000000000000DF81
+t1317168332
+s57217
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotYellow.png
+c000000004E8264CC000000000000D3A0
+t1317168332
+s54176
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/config.xml
+c000000004E8264CC0000000000000277
+t1317168332
+s631
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/qcar-resources.dat
+c000000004E8264CC000000000001FC1E
+t1317168332
+s130078
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m
+c000000004E8264CC0000000000000216
+t1317168332
+s534
+i<UIKit/UIKit.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app
+t1317344481
+s510
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app.dSYM
+t2
+s0
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Default-Landscape.png
+t1317344481
+s110483
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Default.png
+t1317344481
+s20179
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Icon-Small.png
+t1317344481
+s4480
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Icon.png
+t1317344481
+s6993
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Info.plist
+t1317344472
+s906
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/PkgInfo
+t1317344472
+s8
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBlue.png
+t1317344481
+s56236
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBrass.png
+t1317344481
+s52619
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotGreen.png
+t1317344481
+s58698
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotRed.png
+t1317344481
+s57217
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotYellow.png
+t1317344481
+s54176
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons
+t2
+s0
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/config.xml
+t1317344481
+s631
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/qcar-resources.dat
+t1317344481
+s130078
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ARViewController.o
+t1317344477
+s37576
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/EAGLView.o
+t1317344479
+s145820
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ShaderUtils.o
+t1317344478
+s11576
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/Texture.o
+t1317344478
+s15812
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtons.LinkFileList
+c000000004E8514D7000000000000040D
+t1317344471
+s1037
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtonsAppDelegate.o
+t1317344479
+s53872
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/main.o
+t1317344477
+s7456
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-cfeyygknahcpljbdduzvodszrawl/VirtualButtons-Prefix.pch.gch
+t1317344477
+s1757468
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch.gch
+t1317344477
+s11364140
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch.gch
+t1317344474
+s10659740
+
+NVirtualButtons/VirtualButtons-Info.plist
+c000000004E8264CC00000000000004F5
+t1317168332
+s1269
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies339037271#339037271#0(0"0(0#1#0"4261848#0"0#
+
+CCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ARViewController.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s339037277.636931
+e339037277.982208
+r1
+xCompileC
+xbuild/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ARViewController.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m339037277#339037277#0(0"0(0#0#101"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m2529141392#2424"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ARViewController.o0#
+
+CCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/EAGLView.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s339037278.515996
+e339037279.452786
+r1
+xCompileC
+xbuild/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/EAGLView.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339037278#339037279#0(0"0(0#0#94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm2529141392#2428"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ShaderUtils.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s339037278.194369
+e339037278.515519
+r1
+xCompileC
+xbuild/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ShaderUtils.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp339037278#339037278#0(0"0(0#0#98"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp2529141392#2381"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-cfeyygknahcpljbdduzvodszrawl/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/ShaderUtils.o0#
+
+CCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/Texture.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s339037277.983014
+e339037278.193880
+r1
+xCompileC
+xbuild/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/Texture.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm339037277#339037278#0(0"0(0#0#93"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm2529141392#2426"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/Texture.o0#
+
+CCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtonsAppDelegate.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s339037279.453426
+e339037279.756229
+r1
+xCompileC
+xbuild/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtonsAppDelegate.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm339037279#339037279#0(0"0(0#0#111"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm2529141392#2462"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtonsAppDelegate.o0#
+
+CCompileC build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/main.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s339037277.632556
+e339037277.936465
+r1
+xCompileC
+xbuild/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/main.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m339037277#339037277#0(0"0(0#0#89"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m2529141392#2400"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/Default-Landscape.png Resources-iPad/Default-Landscape.png
+s339037281.213400
+e339037281.335088
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/Default-Landscape.png
+xResources-iPad/Default-Landscape.png
+lSLF07#2@41"Copy Resources-iPad/Default-Landscape.png339037281#339037281#0(0"0(0#0#104"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/Resources-iPad/Default-Landscape.png4261848#588"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/Resources-iPad/Default-Landscape.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/Default.png VirtualButtons/Default.png
+s339037281.134443
+e339037281.212383
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/Default.png
+xVirtualButtons/Default.png
+lSLF07#2@31"Copy VirtualButtons/Default.png339037281#339037281#0(0"0(0#0#94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Default.png2529141392#578"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Default.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/Icon-Small.png VirtualButtons/Icon-Small.png
+s339037281.138375
+e339037281.285266
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/Icon-Small.png
+xVirtualButtons/Icon-Small.png
+lSLF07#2@34"Copy VirtualButtons/Icon-Small.png339037281#339037281#0(0"0(0#0#97"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon-Small.png2529141392#581"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon-Small.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/Icon.png VirtualButtons/Icon.png
+s339037281.142354
+e339037281.220509
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/Icon.png
+xVirtualButtons/Icon.png
+lSLF07#2@28"Copy VirtualButtons/Icon.png339037281#339037281#0(0"0(0#0#91"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon.png2529141392#575"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBlue.png VirtualButtons/assets/TextureTeapotBlue.png
+s339037281.110072
+e339037281.331307
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBlue.png
+xVirtualButtons/assets/TextureTeapotBlue.png
+lSLF07#2@48"Copy VirtualButtons/assets/TextureTeapotBlue.png339037281#339037281#0(0"0(0#0#111"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBlue.png2529141392#595"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBlue.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBrass.png VirtualButtons/assets/TextureTeapotBrass.png
+s339037281.114335
+e339037281.235852
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotBrass.png
+xVirtualButtons/assets/TextureTeapotBrass.png
+lSLF07#2@49"Copy VirtualButtons/assets/TextureTeapotBrass.png339037281#339037281#0(0"0(0#0#112"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBrass.png2529141392#596"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBrass.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotGreen.png VirtualButtons/assets/TextureTeapotGreen.png
+s339037281.119005
+e339037281.327277
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotGreen.png
+xVirtualButtons/assets/TextureTeapotGreen.png
+lSLF07#2@49"Copy VirtualButtons/assets/TextureTeapotGreen.png339037281#339037281#0(0"0(0#0#112"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotGreen.png2529141392#596"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotGreen.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotRed.png VirtualButtons/assets/TextureTeapotRed.png
+s339037281.124273
+e339037281.323131
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotRed.png
+xVirtualButtons/assets/TextureTeapotRed.png
+lSLF07#2@47"Copy VirtualButtons/assets/TextureTeapotRed.png339037281#339037281#0(0"0(0#0#110"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotRed.png2529141392#594"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotRed.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotYellow.png VirtualButtons/assets/TextureTeapotYellow.png
+s339037281.128735
+e339037281.309339
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/TextureTeapotYellow.png
+xVirtualButtons/assets/TextureTeapotYellow.png
+lSLF07#2@50"Copy VirtualButtons/assets/TextureTeapotYellow.png339037281#339037281#0(0"0(0#0#113"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotYellow.png2529141392#597"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotYellow.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/config.xml VirtualButtons/assets/config.xml
+s339037281.102884
+e339037281.289099
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/config.xml
+xVirtualButtons/assets/config.xml
+lSLF07#2@37"Copy VirtualButtons/assets/config.xml339037281#339037281#0(0"0(0#0#100"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/config.xml4261848#584"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/config.xml /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CCpResource build/Debug-iphonesimulator/VirtualButtons.app/qcar-resources.dat VirtualButtons/assets/qcar-resources.dat
+s339037281.106306
+e339037281.257493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VirtualButtons.app/qcar-resources.dat
+xVirtualButtons/assets/qcar-resources.dat
+lSLF07#2@45"Copy VirtualButtons/assets/qcar-resources.dat339037281#339037281#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/qcar-resources.dat2529141392#592"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/qcar-resources.dat /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app0#
+
+CGenerateDSYMFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app.dSYM /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons
+r0
+
+CLd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons normal i386
+s339037279.756649
+e339037281.102181
+r0
+xLd
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons
+xnormal
+xi386
+old: warning: in ../../build/lib/arm/libQCAR.a, missing required architecture i386 in file
+oUndefined symbols:
+o  "QCAR::Tracker::getInstance()", referenced from:
+o      -[EAGLView loadTracker] in EAGLView.o
+o      (anonymous namespace)::VirtualButton_UpdateCallback::QCAR_onUpdate(QCAR::State&)in EAGLView.o
+o      (anonymous namespace)::VirtualButton_UpdateCallback::QCAR_onUpdate(QCAR::State&)in EAGLView.o
+o      -[EAGLView stopCamera] in EAGLView.o
+o      -[EAGLView startCamera] in EAGLView.o
+o      -[EAGLView startCamera] in EAGLView.o
+o  "QCAR::onSurfaceChanged(int, int)", referenced from:
+o      -[EAGLView initApplication] in EAGLView.o
+o  "QCAR::Tool::getProjectionGL(QCAR::CameraCalibration const&, float, float)", referenced from:
+o      -[EAGLView startCamera] in EAGLView.o
+o  "QCAR::State::getActiveTrackable(int) const", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::Rectangle::Rectangle(float, float, float, float)", referenced from:
+o      toggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o
+o  "QCAR::setInitParameters(int)", referenced from:
+o      -[EAGLView initQCAR] in EAGLView.o
+o  "QCAR::onPause()", referenced from:
+o      -[EAGLView onPause] in EAGLView.o
+o  "QCAR::Tool::convertPose2GLMatrix(QCAR::Matrix34F const&)", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::onResume()", referenced from:
+o      -[EAGLView updateApplicationStatus:] in EAGLView.o
+o      -[EAGLView onResume] in EAGLView.o
+o  "QCAR::CameraDevice::getInstance()", referenced from:
+o      -[EAGLView configureVideoBackground] in EAGLView.o
+o      -[EAGLView stopCamera] in EAGLView.o
+o      -[EAGLView stopCamera] in EAGLView.o
+o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o
+o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o
+o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o
+o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o
+o      -[EAGLView startCamera] in EAGLView.o
+o      -[EAGLView startCamera] in EAGLView.o
+o      -[EAGLView startCamera] in EAGLView.o
+o  "QCAR::State::~State()", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::State::getNumActiveTrackables() const", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::Rectangle::getLeftTopX() const", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::Rectangle::getLeftTopY() const", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::Renderer::getInstance()", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView configureVideoBackground] in EAGLView.o
+o  "QCAR::Rectangle::getRightBottomX() const", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::Rectangle::getRightBottomY() const", referenced from:
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o      -[EAGLView renderFrameQCAR] in EAGLView.o
+o  "QCAR::registerCallback(QCAR::UpdateCallback*)", referenced from:
+o      -[EAGLView updateApplicationStatus:] in EAGLView.o
+o  "QCAR::Rectangle::~Rectangle()", referenced from:
+o      toggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o
+o      toggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o
+o  "QCAR::deinit()", referenced from:
+o      -[EAGLView onDestroy] in EAGLView.o
+o  "QCAR::onSurfaceCreated()", referenced from:
+o      -[EAGLView initApplication] in EAGLView.o
+o  "QCAR::setHint(unsigned int, int)", referenced from:
+o      -[EAGLView updateApplicationStatus:] in EAGLView.o
+o      -[EAGLView updateApplicationStatus:] in EAGLView.o
+o  "QCAR::requiresAlpha()", referenced from:
+o      -[EAGLView initRendering] in EAGLView.o
+o  "QCAR::init()", referenced from:
+o      -[EAGLView initQCAR] in EAGLView.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@134"Link /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons339037279#339037281#0(4514"ld: warning: in ../../build/lib/arm/libQCAR.a, missing required architecture i386 in fileUndefined symbols:  "QCAR::Tracker::getInstance()", referenced from:      -[EAGLView loadTracker] in EAGLView.o      (anonymous namespace)::VirtualButton_UpdateCallback::QCAR_onUpdate(QCAR::State&)in EAGLView.o      (anonymous namespace)::VirtualButton_UpdateCallback::QCAR_onUpdate(QCAR::State&)in EAGLView.o      -[EAGLView stopCamera] in EAGLView.o      -[EAGLView startCamera] in EAGLView.o      -[EAGLView startCamera] in EAGLView.o  "QCAR::onSurfaceChanged(int, int)", referenced from:      -[EAGLView initApplication] in EAGLView.o  "QCAR::Tool::getProjectionGL(QCAR::CameraCalibration const&, float, float)", referenced from:      -[EAGLView startCamera] in EAGLView.o  "QCAR::State::getActiveTrackable(int) const", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::Rectangle::Rectangle(float, float, float, float)", referenced from:      toggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o  "QCAR::setInitParameters(int)", referenced from:      -[EAGLView initQCAR] in EAGLView.o  "QCAR::onPause()", referenced from:      -[EAGLView onPause] in EAGLView.o  "QCAR::Tool::convertPose2GLMatrix(QCAR::Matrix34F const&)", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::onResume()", referenced from:      -[EAGLView updateApplicationStatus:] in EAGLView.o      -[EAGLView onResume] in EAGLView.o  "QCAR::CameraDevice::getInstance()", referenced from:      -[EAGLView configureVideoBackground] in EAGLView.o      -[EAGLView stopCamera] in EAGLView.o      -[EAGLView stopCamera] in EAGLView.o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o      -[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o      -[EAGLView startCamera] in EAGLView.o      -[EAGLView startCamera] in EAGLView.o      -[EAGLView startCamera] in EAGLView.o  "QCAR::State::~State()", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::State::getNumActiveTrackables() const", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::Rectangle::getLeftTopX() const", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::Rectangle::getLeftTopY() const", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::Renderer::getInstance()", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView configureVideoBackground] in EAGLView.o  "QCAR::Rectangle::getRightBottomX() const", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::Rectangle::getRightBottomY() const", referenced from:      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o      -[EAGLView renderFrameQCAR] in EAGLView.o  "QCAR::registerCallback(QCAR::UpdateCallback*)", referenced from:      -[EAGLView updateApplicationStatus:] in EAGLView.o  "QCAR::Rectangle::~Rectangle()", referenced from:      toggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o      toggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o  "QCAR::deinit()", referenced from:      -[EAGLView onDestroy] in EAGLView.o  "QCAR::onSurfaceCreated()", referenced from:      -[EAGLView initApplication] in EAGLView.o  "QCAR::setHint(unsigned int, int)", referenced from:      -[EAGLView updateApplicationStatus:] in EAGLView.o      -[EAGLView updateApplicationStatus:] in EAGLView.o  "QCAR::requiresAlpha()", referenced from:      -[EAGLView initRendering] in EAGLView.o  "QCAR::init()", referenced from:      -[EAGLView initQCAR] in EAGLView.old: symbol(s) not foundcollect2: ld returned 1 exit status83(22@76"In ../../build/lib/arm/libQCAR.a, missing required architecture i386 in file339037281#0#90#0(6@0"339037281#0#0#0#0#0"0(4@48""QCAR::Tracker::getInstance()", referenced from:339037281#109#51#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView loadTracker] in EAGLView.o339037281#160#44#0(6@0"339037281#0#0#0#0#0"0(13@93"(anonymous namespace)::VirtualButton_UpdateCallback::QCAR_onUpdate(QCAR::State&)in EAGLView.o339037281#204#100#0(6@0"339037281#0#0#0#0#0"0(13@93"(anonymous namespace)::VirtualButton_UpdateCallback::QCAR_onUpdate(QCAR::State&)in EAGLView.o339037281#304#100#0(6@0"339037281#0#0#0#0#0"0(13@36"-[EAGLView stopCamera] in EAGLView.o339037281#404#43#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView startCamera] in EAGLView.o339037281#447#44#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView startCamera] in EAGLView.o339037281#491#44#0(6@0"339037281#0#0#0#0#0"0(4@52""QCAR::onSurfaceChanged(int, int)", referenced from:339037281#535#55#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView initApplication] in EAGLView.o339037281#590#48#0(6@0"339037281#0#0#0#0#0"0(4@93""QCAR::Tool::getProjectionGL(QCAR::CameraCalibration const&, float, float)", referenced from:339037281#638#96#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView startCamera] in EAGLView.o339037281#734#44#0(6@0"339037281#0#0#0#0#0"0(4@62""QCAR::State::getActiveTrackable(int) const", referenced from:339037281#778#65#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#843#48#0(6@0"339037281#0#0#0#0#0"0(4@74""QCAR::Rectangle::Rectangle(float, float, float, float)", referenced from:339037281#891#77#0(6@0"339037281#0#0#0#0#0"0(13@93"ToggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o339037281#968#100#0(6@0"339037281#0#0#0#0#0"0(4@48""QCAR::setInitParameters(int)", referenced from:339037281#1068#51#0(6@0"339037281#0#0#0#0#0"0(13@34"-[EAGLView initQCAR] in EAGLView.o339037281#1119#41#0(6@0"339037281#0#0#0#0#0"0(4@35""QCAR::onPause()", referenced from:339037281#1160#38#0(6@0"339037281#0#0#0#0#0"0(13@33"-[EAGLView onPause] in EAGLView.o339037281#1198#40#0(6@0"339037281#0#0#0#0#0"0(4@76""QCAR::Tool::convertPose2GLMatrix(QCAR::Matrix34F const&)", referenced from:339037281#1238#79#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#1317#48#0(6@0"339037281#0#0#0#0#0"0(4@36""QCAR::onResume()", referenced from:339037281#1365#39#0(6@0"339037281#0#0#0#0#0"0(13@50"-[EAGLView updateApplicationStatus:] in EAGLView.o339037281#1404#57#0(6@0"339037281#0#0#0#0#0"0(13@34"-[EAGLView onResume] in EAGLView.o339037281#1461#41#0(6@0"339037281#0#0#0#0#0"0(4@53""QCAR::CameraDevice::getInstance()", referenced from:339037281#1502#56#0(6@0"339037281#0#0#0#0#0"0(13@50"-[EAGLView configureVideoBackground] in EAGLView.o339037281#1558#57#0(6@0"339037281#0#0#0#0#0"0(13@36"-[EAGLView stopCamera] in EAGLView.o339037281#1615#43#0(6@0"339037281#0#0#0#0#0"0(13@36"-[EAGLView stopCamera] in EAGLView.o339037281#1658#43#0(6@0"339037281#0#0#0#0#0"0(13@59"-[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o339037281#1701#66#0(6@0"339037281#0#0#0#0#0"0(13@59"-[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o339037281#1767#66#0(6@0"339037281#0#0#0#0#0"0(13@59"-[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o339037281#1833#66#0(6@0"339037281#0#0#0#0#0"0(13@59"-[EAGLView actionSheet:clickedButtonAtIndex:] in EAGLView.o339037281#1899#66#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView startCamera] in EAGLView.o339037281#1965#44#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView startCamera] in EAGLView.o339037281#2009#44#0(6@0"339037281#0#0#0#0#0"0(13@37"-[EAGLView startCamera] in EAGLView.o339037281#2053#44#0(6@0"339037281#0#0#0#0#0"0(4@41""QCAR::State::~State()", referenced from:339037281#2097#44#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2141#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2189#48#0(6@0"339037281#0#0#0#0#0"0(4@63""QCAR::State::getNumActiveTrackables() const", referenced from:339037281#2237#66#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2303#48#0(6@0"339037281#0#0#0#0#0"0(4@56""QCAR::Rectangle::getLeftTopX() const", referenced from:339037281#2351#59#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2410#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2458#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2506#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2554#48#0(6@0"339037281#0#0#0#0#0"0(4@56""QCAR::Rectangle::getLeftTopY() const", referenced from:339037281#2602#59#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2661#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2709#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2757#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2805#48#0(6@0"339037281#0#0#0#0#0"0(4@49""QCAR::Renderer::getInstance()", referenced from:339037281#2853#52#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2905#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#2953#48#0(6@0"339037281#0#0#0#0#0"0(13@50"-[EAGLView configureVideoBackground] in EAGLView.o339037281#3001#57#0(6@0"339037281#0#0#0#0#0"0(4@60""QCAR::Rectangle::getRightBottomX() const", referenced from:339037281#3058#63#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3121#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3169#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3217#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3265#48#0(6@0"339037281#0#0#0#0#0"0(4@60""QCAR::Rectangle::getRightBottomY() const", referenced from:339037281#3313#63#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3376#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3424#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3472#48#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView renderFrameQCAR] in EAGLView.o339037281#3520#48#0(6@0"339037281#0#0#0#0#0"0(4@65""QCAR::registerCallback(QCAR::UpdateCallback*)", referenced from:339037281#3568#68#0(6@0"339037281#0#0#0#0#0"0(13@50"-[EAGLView updateApplicationStatus:] in EAGLView.o339037281#3636#57#0(6@0"339037281#0#0#0#0#0"0(4@49""QCAR::Rectangle::~Rectangle()", referenced from:339037281#3693#52#0(6@0"339037281#0#0#0#0#0"0(13@93"ToggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o339037281#3745#100#0(6@0"339037281#0#0#0#0#0"0(13@93"ToggleVirtualButton(QCAR::ImageTarget*, char const*, float, float, float, float)in EAGLView.o339037281#3845#100#0(6@0"339037281#0#0#0#0#0"0(4@34""QCAR::deinit()", referenced from:339037281#3945#37#0(6@0"339037281#0#0#0#0#0"0(13@35"-[EAGLView onDestroy] in EAGLView.o339037281#3982#42#0(6@0"339037281#0#0#0#0#0"0(4@44""QCAR::onSurfaceCreated()", referenced from:339037281#4024#47#0(6@0"339037281#0#0#0#0#0"0(13@41"-[EAGLView initApplication] in EAGLView.o339037281#4071#48#0(6@0"339037281#0#0#0#0#0"0(4@52""QCAR::setHint(unsigned int, int)", referenced from:339037281#4119#55#0(6@0"339037281#0#0#0#0#0"0(13@50"-[EAGLView updateApplicationStatus:] in EAGLView.o339037281#4174#57#0(6@0"339037281#0#0#0#0#0"0(13@50"-[EAGLView updateApplicationStatus:] in EAGLView.o339037281#4231#57#0(6@0"339037281#0#0#0#0#0"0(4@41""QCAR::requiresAlpha()", referenced from:339037281#4288#44#0(6@0"339037281#0#0#0#0#0"0(13@39"-[EAGLView initRendering] in EAGLView.o339037281#4332#46#0(6@0"339037281#0#0#0#0#0"0(4@32""QCAR::init()", referenced from:339037281#4378#35#0(6@0"339037281#0#0#0#0#0"0(13@34"-[EAGLView initQCAR] in EAGLView.o339037281#4413#41#0(6@0"339037281#0#0#0#0#0"0(13@19"Symbol(s) not found339037281#4454#24#0(6@0"339037281#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status339037281#4478#36#0(6@0"339037281#0#0#0#0#0"0(0#0#0"2529141392#1277"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -L../../build/lib/arm -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -filelist /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/Objects-normal/i386/VirtualButtons.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreMedia -framework SystemConfiguration -framework AVFoundation -framework CoreVideo -framework Security -lQCAR -framework UIKit -framework Foundation -framework CoreGraphics -framework QuartzCore -framework OpenGLES -prebind -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/VirtualButtons1#
+
+CProcessInfoPlistFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Info.plist VirtualButtons/VirtualButtons-Info.plist
+s339037271.926050
+e339037272.071246
+r1
+xProcessInfoPlistFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Info.plist
+xVirtualButtons/VirtualButtons-Info.plist
+lSLF07#2@48"Process VirtualButtons/VirtualButtons-Info.plist339037272#339037272#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Info.plist4261848#602"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VirtualButtons/VirtualButtons-Info.plist -genpkginfo /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app/Info.plist0#
+
+CProcessPCH /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s339037272.072234
+e339037274.833106
+r1
+xProcessPCH
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339037272#339037274#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch4750400#2256"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-dyjihqhfbrpudlfcvltarpaqesix/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-cfeyygknahcpljbdduzvodszrawl/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s339037277.383175
+e339037277.632077
+r1
+xProcessPCH++
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-cfeyygknahcpljbdduzvodszrawl/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339037277#339037277#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#2221"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-cfeyygknahcpljbdduzvodszrawl/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s339037274.833863
+e339037277.382481
+r1
+xProcessPCH++
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339037274#339037277#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#2275"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/VirtualButtons-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources/i386 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/VirtualButtons.build/Debug-iphonesimulator/VirtualButtons.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-crlqqygeizgwvzbvsopwhvgldabk/VirtualButtons-Prefix.pch.gch0#
+
+CTouch /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphonesimulator/VirtualButtons.app
+r0
+

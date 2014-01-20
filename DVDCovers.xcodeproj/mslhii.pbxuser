@@ -1,0 +1,392 @@
+// !$*UTF8*$!
+{
+	15230E4813B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 1274}}";
+			sepNavSelRange = "{1367, 0}";
+			sepNavVisRange = "{1225, 738}";
+		};
+	};
+	158A0C5B1355D1D4008B5D90 /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7106BB0E14354C25000079C4 /* DVDCovers */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 158A0C631355D1D4008B5D90 /* DVDCovers */;
+		addToTargets = (
+			158A0C631355D1D4008B5D90 /* DVDCovers */,
+		);
+		codeSenseManager = 7106BB1314354C47000079C4 /* Code sense */;
+		executables = (
+			7106BB0E14354C25000079C4 /* DVDCovers */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340776194;
+			PBXWorkspaceStateSaveDate = 340776194;
+		};
+		perUserProjectItems = {
+			710102EF144FB13300130DE4 /* PBXTextBookmark */ = 710102EF144FB13300130DE4 /* PBXTextBookmark */;
+			7106BB5E14368E58000079C4 /* PBXTextBookmark */ = 7106BB5E14368E58000079C4 /* PBXTextBookmark */;
+			7106BC6F1437E0B0000079C4 /* PBXTextBookmark */ = 7106BC6F1437E0B0000079C4 /* PBXTextBookmark */;
+			7106BC701437E0B0000079C4 /* PBXTextBookmark */ = 7106BC701437E0B0000079C4 /* PBXTextBookmark */;
+			7106BCB71437E86F000079C4 /* PBXTextBookmark */ = 7106BCB71437E86F000079C4 /* PBXTextBookmark */;
+			7106BCB81437E86F000079C4 /* PBXTextBookmark */ = 7106BCB81437E86F000079C4 /* PBXTextBookmark */;
+			7106BD70143967A7000079C4 /* PBXTextBookmark */ = 7106BD70143967A7000079C4 /* PBXTextBookmark */;
+			7106BD71143967A7000079C4 /* PBXTextBookmark */ = 7106BD71143967A7000079C4 /* PBXTextBookmark */;
+			7106BD72143967A7000079C4 /* PBXTextBookmark */ = 7106BD72143967A7000079C4 /* PBXTextBookmark */;
+			7106BD74143967A7000079C4 /* PBXTextBookmark */ = 7106BD74143967A7000079C4 /* PBXTextBookmark */;
+			7106BDB8143C1D33000079C4 /* PBXTextBookmark */ = 7106BDB8143C1D33000079C4 /* PBXTextBookmark */;
+			7106BDBA143C1D33000079C4 /* PBXTextBookmark */ = 7106BDBA143C1D33000079C4 /* PBXTextBookmark */;
+			7106BDD8143C2BD1000079C4 /* PBXTextBookmark */ = 7106BDD8143C2BD1000079C4 /* PBXTextBookmark */;
+			7106BE2C143C2EB6000079C4 /* PBXTextBookmark */ = 7106BE2C143C2EB6000079C4 /* PBXTextBookmark */;
+			7106BE88143E9FBB000079C4 /* PBXTextBookmark */ = 7106BE88143E9FBB000079C4 /* PBXTextBookmark */;
+			7161172A14511297009925AC /* PBXTextBookmark */ = 7161172A14511297009925AC /* PBXTextBookmark */;
+			71CFEF70143EA85C00C01A86 /* PBXBookmark */ = 71CFEF70143EA85C00C01A86 /* PBXBookmark */;
+			71CFEF71143EA85C00C01A86 /* PBXBookmark */ = 71CFEF71143EA85C00C01A86 /* PBXBookmark */;
+			71CFEF72143EA85C00C01A86 /* PBXBookmark */ = 71CFEF72143EA85C00C01A86 /* PBXBookmark */;
+		};
+		sourceControlManager = 7106BB1214354C47000079C4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	158A0C631355D1D4008B5D90 /* DVDCovers */ = {
+		activeExec = 0;
+		executables = (
+			7106BB0E14354C25000079C4 /* DVDCovers */,
+		);
+	};
+	158A0C781355D1D4008B5D90 /* VirtualButtons-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	158A0C791355D1D4008B5D90 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{309, 0}";
+			sepNavVisRange = "{0, 534}";
+		};
+	};
+	158A0C7B1355D1D4008B5D90 /* VirtualButtonsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{516, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	158A0C851355D1D4008B5D90 /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1027}}";
+			sepNavSelRange = "{1799, 14}";
+			sepNavVisRange = "{1528, 686}";
+		};
+	};
+	158A0C931355D2A4008B5D90 /* ARViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{0, 434}";
+		};
+	};
+	158A0C941355D2A4008B5D90 /* ARViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 375}}";
+			sepNavSelRange = "{592, 0}";
+			sepNavVisRange = "{0, 599}";
+		};
+	};
+	158A0C991355D655008B5D90 /* Texture.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 409}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 679}";
+		};
+	};
+	158A0C9A1355D655008B5D90 /* Texture.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1313}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 651}";
+		};
+	};
+	158A0C9D1355D734008B5D90 /* ShaderUtils.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 2847}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 779}";
+		};
+	};
+	158A0C9E1355D734008B5D90 /* ShaderUtils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 754}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 961}";
+		};
+	};
+	15982347135F0B24005D176B /* EAGLView.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"CGFloat x\";\n            r = \"{12485, 13}\";\n            s = 1;\n        },\n                {\n            l = \"CGFloat y\";\n            r = \"{12500, 13}\";\n            s = 1;\n        },\n                {\n            l = \"CGFloat width\";\n            r = \"{12515, 17}\";\n            s = 1;\n        },\n                {\n            l = \"CGFloat height\";\n            r = \"{12534, 18}\";\n            s = 1;\n        },\n                {\n            l = \"CGPoint point\";\n            r = \"{12555, 17}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 42120}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 16406}}";
+			sepNavSelRange = "{13013, 0}";
+			sepNavVisRange = "{2908, 986}";
+		};
+	};
+	710102EF144FB13300130DE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15982347135F0B24005D176B /* EAGLView.mm */;
+		name = "EAGLView.mm: 409";
+		rLen = 0;
+		rLoc = 13086;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 2906;
+	};
+	7106BB0E14354C25000079C4 /* DVDCovers */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DVDCovers;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7106BB1214354C47000079C4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7106BB1314354C47000079C4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7106BB5E14368E58000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7106BB5F14368E58000079C4 /* VirtualButton.h */;
+		name = "VirtualButton.h: 79";
+		rLen = 9;
+		rLoc = 2652;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 1808;
+	};
+	7106BB5F14368E58000079C4 /* VirtualButton.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VirtualButton.h;
+		path = "/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VirtualButton.h";
+		sourceTree = "<absolute>";
+	};
+	7106BC6F1437E0B0000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C991355D655008B5D90 /* Texture.h */;
+		name = "Texture.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	7106BC701437E0B0000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C9E1355D734008B5D90 /* ShaderUtils.h */;
+		name = "ShaderUtils.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 0;
+	};
+	7106BCB71437E86F000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C9A1355D655008B5D90 /* Texture.mm */;
+		name = "Texture.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 0;
+	};
+	7106BCB81437E86F000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C9D1355D734008B5D90 /* ShaderUtils.cpp */;
+		name = "ShaderUtils.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 0;
+	};
+	7106BD70143967A7000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C781355D1D4008B5D90 /* VirtualButtons-Prefix.pch */;
+		name = "VirtualButtons-Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	7106BD71143967A7000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C791355D1D4008B5D90 /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 534;
+		vrLoc = 0;
+	};
+	7106BD72143967A7000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C931355D2A4008B5D90 /* ARViewController.h */;
+		name = "ARViewController.h: 15";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 0;
+	};
+	7106BD74143967A7000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C7B1355D1D4008B5D90 /* VirtualButtonsAppDelegate.h */;
+		name = "VirtualButtonsAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	7106BDB0143C1D0B000079C4 /* Reachability.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 3289}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{5024, 616}";
+		};
+	};
+	7106BDB8143C1D33000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15230E4813B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm */;
+		name = "VirtualButtonsAppDelegate.mm: 45";
+		rLen = 0;
+		rLoc = 1367;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 1225;
+	};
+	7106BDBA143C1D33000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7106BDB0143C1D0B000079C4 /* Reachability.m */;
+		name = "Reachability.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 5024;
+	};
+	7106BDD8143C2BD1000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C941355D2A4008B5D90 /* ARViewController.m */;
+		name = "ARViewController.m: 19";
+		rLen = 0;
+		rLoc = 592;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	7106BDDA143C2BEB000079C4 /* Reachability.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1053}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1581}";
+		};
+	};
+	7106BE2C143C2EB6000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7106BDDA143C2BEB000079C4 /* Reachability.h */;
+		name = "Reachability.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1581;
+		vrLoc = 0;
+	};
+	7106BE88143E9FBB000079C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 158A0C851355D1D4008B5D90 /* EAGLView.h */;
+		name = "EAGLView.h: 58";
+		rLen = 14;
+		rLoc = 1799;
+		rType = 0;
+		vrLen = 686;
+		vrLoc = 1528;
+	};
+	7161172A14511297009925AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15982347135F0B24005D176B /* EAGLView.mm */;
+		name = "EAGLView.mm: 409";
+		rLen = 0;
+		rLoc = 13086;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 2908;
+	};
+	71CFEF70143EA85C00C01A86 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 158831C013606C8B0082B874 /* Icon.png */;
+	};
+	71CFEF71143EA85C00C01A86 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 158831BF13606C8B0082B874 /* Icon-Small.png */;
+	};
+	71CFEF72143EA85C00C01A86 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 158831BE13606C8B0082B874 /* Default.png */;
+	};
+}

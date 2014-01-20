@@ -1,0 +1,1228 @@
+TDVDCovers
+v7
+r0
+t339650133.541251
+cCheck dependencies
+cCpResource build/Debug-iphoneos/DVDCovers.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Info.plist VirtualButtons/DVDCovers-Info.plist
+cProcessPCH /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fclcivpokfdasmcilgnbgwznmjvu/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fjalsrharsyvusfotmpfiuovmqrz/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv7 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/main.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ARViewController.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Texture.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Reachability.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ShaderUtils.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/main.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/EAGLView.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ARViewController.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/VirtualButtonsAppDelegate.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Texture.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ShaderUtils.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp normal armv7 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/EAGLView.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers normal armv6
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/VirtualButtonsAppDelegate.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Reachability.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers normal armv7
+cCreateUniversalBinary /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers normal "armv6 armv7"
+cGenerateDSYMFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app.dSYM /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers
+cCpResource build/Debug-iphoneos/DVDCovers.app/config.xml VirtualButtons/assets/config.xml
+cCpResource build/Debug-iphoneos/DVDCovers.app/qcar-resources.dat VirtualButtons/assets/qcar-resources.dat
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBlue.png VirtualButtons/assets/TextureTeapotBlue.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBrass.png VirtualButtons/assets/TextureTeapotBrass.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotGreen.png VirtualButtons/assets/TextureTeapotGreen.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotRed.png VirtualButtons/assets/TextureTeapotRed.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotYellow.png VirtualButtons/assets/TextureTeapotYellow.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default.png VirtualButtons/Default.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon-Small.png VirtualButtons/Icon-Small.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon.png VirtualButtons/Icon.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default-Landscape.png Resources-iPad/Default-Landscape.png
+cCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultolder.png VirtualButtons/Defaultolder.png
+cTouch /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+cCodeSign /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004E825E430000000000000132
+t1317166659
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBED1000000000022E2B0
+t1298054865
+s2286256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CFAF0000000000000AB3
+t1297403823
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004D5C99E400000000000EBFA0
+t1297914340
+s966560
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004D54D2D00000000000030F30
+t1297404624
+s200496
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D5DEAA80000000000000294
+t1298000552
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5DEAE900000000003A84E0
+t1298000617
+s3835104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004D54D429000000000000094F
+t1297404969
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004D54D4290000000000009369
+t1297404969
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004D54D4290000000000003C4A
+t1297404969
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004D54D42900000000000092AA
+t1297404969
+s37546
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004D54D42900000000000026AA
+t1297404969
+s9898
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004D54D43E000000000002E690
+t1297404990
+s190096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D49500000000000000C4
+t1297405077
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D54D0A600000000000CDED0
+t1297404070
+s843472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54D0D40000000000001A58
+t1297404116
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54D0E700000000000B0CA0
+t1297404135
+s724128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5330000000000001533
+t1297401139
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C53300000000000008F5
+t1297401139
+s2293
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/math.h
+c000000004D4F6E4300000000000004F1
+t1297051203
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netdb.h
+c000000004D54C533000000000000307F
+t1297401139
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netinet/in.h
+c000000004D54CB250000000000006BAC
+t1297402661
+s27564
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54CB24000000000000638F
+t1297402660
+s25487
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/stdio.h
+c000000004D4F6E910000000000004763
+t1297051281
+s18275
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/socket.h
+c000000004D54CB290000000000005ACF
+t1297402665
+s23247
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Area.h
+c000000004E8264C90000000000000317
+t1317168329
+s791
+i<QCAR/QCAR.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/CameraCalibration.h
+c000000004E8264C9000000000000048E
+t1317168329
+s1166
+i<QCAR/Vectors.h>
+i<QCAR/NonCopyable.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/CameraDevice.h
+c000000004E8264C90000000000000E6F
+t1317168329
+s3695
+i<QCAR/NonCopyable.h>
+i<QCAR/VideoMode.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Frame.h
+c000000004E8264C90000000000000843
+t1317168329
+s2115
+i<QCAR/QCAR.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/ImageTarget.h
+c000000004E8264C900000000000007EB
+t1317168329
+s2027
+i<QCAR/Trackable.h>
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Matrices.h
+c000000004E8264C90000000000000301
+t1317168329
+s769
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/NonCopyable.h
+c000000004E8264C900000000000003A4
+t1317168329
+s932
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/QCAR.h
+c000000004E8264C900000000000018F2
+t1317168329
+s6386
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Rectangle.h
+c000000004E8264C900000000000004C4
+t1317168329
+s1220
+i<QCAR/Area.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Renderer.h
+c000000004E8264C90000000000000842
+t1317168329
+s2114
+i<QCAR/Matrices.h>
+i<QCAR/Vectors.h>
+i<QCAR/State.h>
+i<QCAR/NonCopyable.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/State.h
+c000000004E8264C900000000000009EB
+t1317168329
+s2539
+i<QCAR/System.h>
+i<QCAR/Frame.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/System.h
+c000000004E8264C90000000000000433
+t1317168329
+s1075
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Tool.h
+c000000004E8264C90000000000000D09
+t1317168329
+s3337
+i<QCAR/System.h>
+i<QCAR/Matrices.h>
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Trackable.h
+c000000004E8264C90000000000000964
+t1317168329
+s2404
+i<QCAR/NonCopyable.h>
+i<QCAR/Matrices.h>
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Tracker.h
+c000000004E8264C9000000000000112B
+t1317168329
+s4395
+i<QCAR/CameraCalibration.h>
+i<QCAR/NonCopyable.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/UIGLViewProtocol.h
+c000000004E8264C9000000000000039C
+t1317168329
+s924
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/UpdateCallback.h
+c000000004E8264C90000000000000320
+t1317168329
+s800
+i<QCAR/System.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/Vectors.h
+c000000004E8264C900000000000007E8
+t1317168329
+s2024
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VideoBackgroundConfig.h
+c000000004E8264C90000000000000727
+t1317168329
+s1831
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VideoMode.h
+c000000004E8264C90000000000000313
+t1317168329
+s787
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/build/include/QCAR/VirtualButton.h
+c000000004E8264C90000000000000AD8
+t1317168329
+s2776
+i<QCAR/NonCopyable.h>
+i<QCAR/Vectors.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/../../build/lib/arm/libQCAR.a
+c000000004E8264CA000000000053BA78
+t1317168330
+s5487224
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/Resources-iPad/Default-Landscape.png
+c000000004E8264CC000000000001AF93
+t1317168332
+s110483
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.h
+c000000004E87842600000000000001B2
+t1317504038
+s434
+i<UIKit/UIKit.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m
+c000000004E8BE19F0000000000000257
+t1317790111
+s599
+i"ARViewController.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Default.png
+c000000004E8E6E6800000000000061B4
+t1317957224
+s25012
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Defaultold.png
+c000000004E8E6C980000000000004FA0
+t1317956760
+s20384
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Defaultolder.png
+c000000004E654CD6000000000000879B
+t1315261654
+s34715
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.h
+c000000004E8264CC00000000000008A6
+t1317168332
+s2214
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+i<QCAR/Tool.h>
+i<QCAR/UIGLViewProtocol.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm
+c000000004E8E6D9B000000000000AA0D
+t1317957019
+s43533
+i<QuartzCore/QuartzCore.h>
+i"EAGLView.h"
+i<QCAR/QCAR.h>
+i<QCAR/CameraDevice.h>
+i<QCAR/Tracker.h>
+i"Texture.h"
+i"Teapot.h"
+i<QCAR/VideoBackgroundConfig.h>
+i<QCAR/Renderer.h>
+i<QCAR/Tool.h>
+i<QCAR/Trackable.h>
+i<QCAR/ImageTarget.h>
+i<QCAR/Rectangle.h>
+i<QCAR/VirtualButton.h>
+i<QCAR/UpdateCallback.h>
+i<MediaPlayer/MediaPlayer.h>
+i"Reachability.h"
+i"ShaderUtils.h"
+i"Shaders/CubeShader.fsh"
+i"Shaders/CubeShader.vsh"
+i"Shaders/LineShader.fsh"
+i"Shaders/LineShader.vsh"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon-Small.png
+c000000004E8264CC0000000000001180
+t1317168332
+s4480
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon.png
+c000000004E8264CC0000000000001B51
+t1317168332
+s6993
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m
+c000000004C34EF79000000000000239B
+t1278537593
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp
+c000000004E8264CC00000000000015EB
+t1317168332
+s5611
+i<math.h>
+i<stdio.h>
+i"ShaderUtils.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.h
+c000000004E8264CC000000000000072A
+t1317168332
+s1834
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/CubeShader.fsh
+c000000004E8264CC00000000000001E7
+t1317168332
+s487
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/CubeShader.vsh
+c000000004E8264CC0000000000000287
+t1317168332
+s647
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/LineShader.fsh
+c000000004E8264CC00000000000001A6
+t1317168332
+s422
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Shaders/LineShader.vsh
+c000000004E8264CC00000000000001E4
+t1317168332
+s484
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Teapot.h
+c000000004E8264CC0000000000014CF4
+t1317168332
+s85236
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.h
+c000000004E8264CC00000000000002A7
+t1317168332
+s679
+i<Foundation/Foundation.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm
+c000000004E8264CC0000000000000921
+t1317168332
+s2337
+i"Texture.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch
+c000000004E8264CC000000000000014E
+t1317168332
+s334
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.h
+c000000004E892EBA0000000000000238
+t1317613242
+s568
+i<UIKit/UIKit.h>
+i"EAGLView.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm
+c000000004E8BE3AF0000000000000AE5
+t1317790639
+s2789
+i"VirtualButtonsAppDelegate.h"
+i"ARViewController.h"
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBlue.png
+c000000004E8264CC000000000000DBAC
+t1317168332
+s56236
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBrass.png
+c000000004E8264CC000000000000CD8B
+t1317168332
+s52619
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotGreen.png
+c000000004E8264CC000000000000E54A
+t1317168332
+s58698
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotRed.png
+c000000004E8264CC000000000000DF81
+t1317168332
+s57217
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotYellow.png
+c000000004E8264CC000000000000D3A0
+t1317168332
+s54176
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/config.xml
+c000000004E8E6B760000000000000168
+t1317956470
+s360
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/qcar-resources.dat
+c000000004E8E8D94000000000000E3FD
+t1317965204
+s58365
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m
+c000000004E8785C70000000000000216
+t1317504455
+s534
+i<UIKit/UIKit.h>
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/splash_screen_image_targets.png
+c000000004E654CD6000000000000879B
+t1315261654
+s34715
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ARViewController.o
+t1317957322
+s37652
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers
+t1317957325
+s2475128
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers.LinkFileList
+c000000004E8E6EC0000000000000044A
+t1317957312
+s1098
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/EAGLView.o
+t1317957325
+s129220
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Reachability.o
+t1317957322
+s24240
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ShaderUtils.o
+t1317957322
+s12004
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Texture.o
+t1317957322
+s16420
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/VirtualButtonsAppDelegate.o
+t1317957323
+s55008
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/main.o
+t1317957322
+s7656
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ARViewController.o
+t1317957323
+s37652
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers
+t1317957327
+s2479224
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers.LinkFileList
+c000000004E8E6EC0000000000000044A
+t1317957312
+s1098
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/EAGLView.o
+t1317957326
+s129108
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Reachability.o
+t1317957326
+s24232
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ShaderUtils.o
+t1317957324
+s11968
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Texture.o
+t1317957324
+s16420
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/VirtualButtonsAppDelegate.o
+t1317957326
+s55008
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/main.o
+t1317957323
+s7656
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+t1317957333
+s680
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app.dSYM
+t1317957327
+s102
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers
+t1317957327
+s4961400
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default-Landscape.png
+t1317957332
+s91926
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default.png
+t1317957330
+s21056
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultold.png
+t1317957037
+s16694
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultolder.png
+t1317957331
+s28747
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon-Small.png
+t1317957330
+s4890
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon.png
+t1317957330
+s7974
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Info.plist
+t1317957312
+s1134
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/PkgInfo
+t1317957312
+s8
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/ResourceRules.plist
+t1317957312
+s485
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBlue.png
+t1317957328
+s69900
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBrass.png
+t1317957328
+s74221
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotGreen.png
+t1317957329
+s72357
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotRed.png
+t1317957330
+s70923
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotYellow.png
+t1317957330
+s68027
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/config.xml
+t1317957327
+s360
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/qcar-resources.dat
+t1317957327
+s58365
+
+N/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/splash_screen_image_targets.png
+t2
+s0
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch.gch
+t1317957321
+s11261740
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fclcivpokfdasmcilgnbgwznmjvu/VirtualButtons-Prefix.pch.gch
+t1317957318
+s1544476
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch.gch
+t1317957315
+s10217372
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fjalsrharsyvusfotmpfiuovmqrz/VirtualButtons-Prefix.pch.gch
+t1317957321
+s1995036
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch.gch
+t1317957315
+s10680220
+
+N/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch.gch
+t1317957318
+s10807084
+
+NVirtualButtons/DVDCovers-Info.plist
+c000000004E8264CC00000000000004F5
+t1317168332
+s1269
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies339650112#339650112#0(0"0(0#1#0"2529141392#0"0#
+
+CCodeSign /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+s339650132.041082
+e339650133.540880
+r1
+xCodeSign
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/DVDCovers.app339650132#339650133#0(0"0(0#0#102"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app2529141392#595"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" --resource-rules=/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/ResourceRules.plist /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ARViewController.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s339650121.872799
+e339650122.215351
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ARViewController.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m339650121#339650122#0(0"0(0#0#101"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m2529141392#2136"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ARViewController.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/EAGLView.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s339650122.968463
+e339650125.164506
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/EAGLView.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: In function 'void -[EAGLView touchesBegan:withEvent:](EAGLView*, objc_selector*, NSSet*, UIEvent*)':
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: 'EAGLView' may not respond to '-reachable'
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: (Messages without a matching method signature
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: will be assumed to return 'id' and accept
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: '...' as arguments.)
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: At global scope:
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:53: warning: '<unnamed>::virtualButtonColors' defined but not used
+lSLF07#2@102"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339650122#339650125#0(1060"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: In function 'void -[EAGLView touchesBegan:withEvent:](EAGLView*, objc_selector*, NSSet*, UIEvent*)':/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: 'EAGLView' may not respond to '-reachable'/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: (Messages without a matching method signature/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: will be assumed to return 'id' and accept/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: '...' as arguments.)/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: At global scope:/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:53: warning: '<unnamed>::virtualButtonColors' defined but not used4(22@42"'EAGLView' may not respond to '-reachable'339650124#197#152#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#415#0#415#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)339650124#349#155#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#415#0#415#0#0"0(23@16"At global scope:339650125#785#113#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#0#0#0#0#0"0(22@53"'<unnamed>::virtualButtonColors' defined but not used339650125#898#162#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#53#0#53#0#24"'*' defined but not used0(0#0#94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm2529141392#2140"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/EAGLView.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Reachability.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s339650122.215963
+e339650122.790334
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Reachability.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m339650122#339650122#0(0"0(0#0#97"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m2529141392#2128"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Reachability.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ShaderUtils.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+s339650122.421121
+e339650122.967756
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ShaderUtils.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp339650122#339650122#0(0"0(0#0#98"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp2529141392#2137"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fclcivpokfdasmcilgnbgwznmjvu/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/ShaderUtils.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Texture.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s339650122.102162
+e339650122.419583
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Texture.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm339650122#339650122#0(0"0(0#0#93"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm2529141392#2138"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/Texture.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/VirtualButtonsAppDelegate.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s339650123.374450
+e339650123.794540
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/VirtualButtonsAppDelegate.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm339650123#339650123#0(0"0(0#0#111"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm2529141392#2174"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/VirtualButtonsAppDelegate.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/main.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s339650121.868638
+e339650122.101662
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/main.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m339650121#339650122#0(0"0(0#0#89"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m2529141392#2112"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ARViewController.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s339650123.032131
+e339650123.373830
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ARViewController.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m339650123#339650123#0(0"0(0#0#101"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m2529141392#2147"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ARViewController.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ARViewController.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/EAGLView.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s339650124.638035
+e339650126.740747
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/EAGLView.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: In function 'void -[EAGLView touchesBegan:withEvent:](EAGLView*, objc_selector*, NSSet*, UIEvent*)':
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: 'EAGLView' may not respond to '-reachable'
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: (Messages without a matching method signature
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: will be assumed to return 'id' and accept
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: '...' as arguments.)
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: At global scope:
+o/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:53: warning: '<unnamed>::virtualButtonColors' defined but not used
+lSLF07#2@102"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339650124#339650126#0(1060"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: In function 'void -[EAGLView touchesBegan:withEvent:](EAGLView*, objc_selector*, NSSet*, UIEvent*)':/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: 'EAGLView' may not respond to '-reachable'/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: (Messages without a matching method signature/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: will be assumed to return 'id' and accept/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:415: warning: '...' as arguments.)/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm: At global scope:/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm:53: warning: '<unnamed>::virtualButtonColors' defined but not used4(22@42"'EAGLView' may not respond to '-reachable'339650125#197#152#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#415#0#415#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)339650125#349#155#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#415#0#415#0#0"0(23@16"At global scope:339650126#785#113#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#0#0#0#0#0"0(22@53"'<unnamed>::virtualButtonColors' defined but not used339650126#898#162#0(6@94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm339649819#53#0#53#0#24"'*' defined but not used0(0#0#94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm2529141392#2151"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/EAGLView.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/EAGLView.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Reachability.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s339650126.111026
+e339650126.704060
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Reachability.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m339650126#339650126#0(0"0(0#0#97"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m2529141392#2139"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Reachability.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Reachability.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ShaderUtils.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp normal armv7 c++ com.apple.compilers.gcc.4_2
+s339650124.185470
+e339650124.637435
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ShaderUtils.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp339650124#339650124#0(0"0(0#0#98"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp2529141392#2148"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fjalsrharsyvusfotmpfiuovmqrz/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/ShaderUtils.cpp -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/ShaderUtils.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Texture.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s339650123.795119
+e339650124.184882
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Texture.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm339650123#339650124#0(0"0(0#0#93"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm2529141392#2149"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Texture.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/Texture.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/VirtualButtonsAppDelegate.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s339650125.635906
+e339650126.110505
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/VirtualButtonsAppDelegate.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm339650125#339650126#0(0"0(0#0#111"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm2529141392#2185"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtonsAppDelegate.mm -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/VirtualButtonsAppDelegate.o0#
+
+CCompileC build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/main.o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s339650122.791001
+e339650123.031338
+r1
+xCompileC
+xbuild/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/main.o
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m339650122#339650123#0(0"0(0#0#89"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m2529141392#2123"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -include /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/main.m -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/main.o0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default-Landscape.png Resources-iPad/Default-Landscape.png
+s339650130.695443
+e339650132.027406
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default-Landscape.png
+xResources-iPad/Default-Landscape.png
+lSLF07#2@105"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/Default-Landscape.png Resources-iPad/Default-Landscape.png339650130#339650132#0(0"0(0#0#104"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/Resources-iPad/Default-Landscape.png2529141392#586"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/Resources-iPad/Default-Landscape.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default-Landscape.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default.png VirtualButtons/Default.png
+s339650130.029852
+e339650130.463052
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default.png
+xVirtualButtons/Default.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/Default.png VirtualButtons/Default.png339650130#339650130#0(0"0(0#0#94"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Default.png2529141392#566"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Default.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Default.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultold.png VirtualButtons/Defaultold.png
+s339649837.369505
+e339649837.704795
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultold.png
+xVirtualButtons/Defaultold.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/Defaultold.png VirtualButtons/Defaultold.png339649837#339649837#0(0"0(0#0#97"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Defaultold.png2529141392#572"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Defaultold.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultold.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultolder.png VirtualButtons/Defaultolder.png
+s339650130.978634
+e339650131.649107
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultolder.png
+xVirtualButtons/Defaultolder.png
+lSLF07#2@95"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/Defaultolder.png VirtualButtons/Defaultolder.png339650130#339650131#0(0"0(0#0#99"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Defaultolder.png2529141392#576"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Defaultolder.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Defaultolder.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon-Small.png VirtualButtons/Icon-Small.png
+s339650130.463531
+e339650130.572483
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon-Small.png
+xVirtualButtons/Icon-Small.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/Icon-Small.png VirtualButtons/Icon-Small.png339650130#339650130#0(0"0(0#0#97"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon-Small.png2529141392#572"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon-Small.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon.png VirtualButtons/Icon.png
+s339650130.572993
+e339650130.695040
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon.png
+xVirtualButtons/Icon.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/Icon.png VirtualButtons/Icon.png339650130#339650130#0(0"0(0#0#91"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon.png2529141392#560"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/Icon.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Icon.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBlue.png VirtualButtons/assets/TextureTeapotBlue.png
+s339650127.456141
+e339650128.964967
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBlue.png
+xVirtualButtons/assets/TextureTeapotBlue.png
+lSLF07#2@112"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/TextureTeapotBlue.png VirtualButtons/assets/TextureTeapotBlue.png339650127#339650128#0(0"0(0#0#111"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBlue.png2529141392#593"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBlue.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBlue.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBrass.png VirtualButtons/assets/TextureTeapotBrass.png
+s339650127.710549
+e339650129.003945
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBrass.png
+xVirtualButtons/assets/TextureTeapotBrass.png
+lSLF07#2@114"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/TextureTeapotBrass.png VirtualButtons/assets/TextureTeapotBrass.png339650127#339650129#0(0"0(0#0#112"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBrass.png2529141392#595"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotBrass.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotBrass.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotGreen.png VirtualButtons/assets/TextureTeapotGreen.png
+s339650128.965636
+e339650129.946690
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotGreen.png
+xVirtualButtons/assets/TextureTeapotGreen.png
+lSLF07#2@114"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/TextureTeapotGreen.png VirtualButtons/assets/TextureTeapotGreen.png339650128#339650129#0(0"0(0#0#112"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotGreen.png2529141392#595"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotGreen.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotGreen.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotRed.png VirtualButtons/assets/TextureTeapotRed.png
+s339650129.004432
+e339650130.029413
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotRed.png
+xVirtualButtons/assets/TextureTeapotRed.png
+lSLF07#2@110"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/TextureTeapotRed.png VirtualButtons/assets/TextureTeapotRed.png339650129#339650130#0(0"0(0#0#110"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotRed.png2529141392#591"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotRed.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotRed.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotYellow.png VirtualButtons/assets/TextureTeapotYellow.png
+s339650129.947187
+e339650130.978172
+r1
+xCopyPNGFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotYellow.png
+xVirtualButtons/assets/TextureTeapotYellow.png
+lSLF07#2@116"CopyPNGFile build/Debug-iphoneos/DVDCovers.app/TextureTeapotYellow.png VirtualButtons/assets/TextureTeapotYellow.png339650129#339650130#0(0"0(0#0#113"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotYellow.png2529141392#597"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/TextureTeapotYellow.png /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/TextureTeapotYellow.png0#
+
+CCopyPNGFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/splash_screen_image_targets.png VirtualButtons/splash_screen_image_targets.png
+r0
+
+CCpResource build/Debug-iphoneos/DVDCovers.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s339650112.183396
+e339650112.290398
+r1
+xCpResource
+xbuild/Debug-iphoneos/DVDCovers.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist339650112#339650112#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist4750400#554"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app0#
+
+CCpResource build/Debug-iphoneos/DVDCovers.app/config.xml VirtualButtons/assets/config.xml
+s339650127.449680
+e339650127.537641
+r1
+xCpResource
+xbuild/Debug-iphoneos/DVDCovers.app/config.xml
+xVirtualButtons/assets/config.xml
+lSLF07#2@37"Copy VirtualButtons/assets/config.xml339650127#339650127#0(0"0(0#0#100"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/config.xml2529141392#565"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/config.xml /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app0#
+
+CCpResource build/Debug-iphoneos/DVDCovers.app/qcar-resources.dat VirtualButtons/assets/qcar-resources.dat
+s339650127.452582
+e339650127.710049
+r1
+xCpResource
+xbuild/Debug-iphoneos/DVDCovers.app/qcar-resources.dat
+xVirtualButtons/assets/qcar-resources.dat
+lSLF07#2@45"Copy VirtualButtons/assets/qcar-resources.dat339650127#339650127#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/qcar-resources.dat2529141392#573"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/assets/qcar-resources.dat /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app0#
+
+CCreateUniversalBinary /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers normal "armv6 armv7"
+s339650127.061326
+e339650127.110279
+r1
+xCreateUniversalBinary
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers
+xnormal
+xarmv6 armv7
+lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/DVDCovers.app/DVDCovers normal "armv6 armv7"339650127#339650127#0(0"0(0#0#79"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/armv6 armv72529141392#650"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers -output /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers0#
+
+CGenerateDSYMFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app.dSYM /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers
+s339650127.110809
+e339650127.449274
+r1
+xGenerateDSYMFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app.dSYM
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/DVDCovers.app.dSYM build/Debug-iphoneos/DVDCovers.app/DVDCovers339650127#339650127#0(0"0(0#0#112"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers2529141392#455"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/DVDCovers -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app.dSYM0#
+
+CLd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers normal armv6
+s339650125.165218
+e339650125.635035
+r1
+xLd
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers
+xnormal
+xarmv6
+lSLF07#2@156"Link /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers339650125#339650125#0(0"0(0#0#0"2529141392#1224"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -L../../build/lib/arm -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -filelist /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers.LinkFileList -miphoneos-version-min=4.0 -framework CoreMedia -framework SystemConfiguration -framework AVFoundation -framework CoreVideo -framework Security -lQCAR -framework UIKit -framework Foundation -framework CoreGraphics -framework QuartzCore -framework OpenGLES -framework MediaPlayer -prebind -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv6/DVDCovers0#
+
+CLd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers normal armv7
+s339650126.741146
+e339650127.060769
+r1
+xLd
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers
+xnormal
+xarmv7
+lSLF07#2@156"Link /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers339650126#339650127#0(0"0(0#0#0"2529141392#1224"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -L../../build/lib/arm -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -filelist /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers.LinkFileList -miphoneos-version-min=4.0 -framework CoreMedia -framework SystemConfiguration -framework AVFoundation -framework CoreVideo -framework Security -lQCAR -framework UIKit -framework Foundation -framework CoreGraphics -framework QuartzCore -framework OpenGLES -framework MediaPlayer -prebind -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/Objects-normal/armv7/DVDCovers0#
+
+CProcessInfoPlistFile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Info.plist VirtualButtons/DVDCovers-Info.plist
+s339650112.200212
+e339650112.252567
+r1
+xProcessInfoPlistFile
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Info.plist
+xVirtualButtons/DVDCovers-Info.plist
+lSLF07#2@43"Process VirtualButtons/DVDCovers-Info.plist339650112#339650112#0(0"0(0#0#103"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/DVDCovers-Info.plist2529141392#701"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VirtualButtons/DVDCovers-Info.plist -genpkginfo /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/ResourceRules.plist -o /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app/Info.plist0#
+
+CProcessPCH /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s339650112.290957
+e339650115.842626
+r1
+xProcessPCH
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339650112#339650115#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#1984"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-feqmwcberszjwcbxmtyxdymscisj/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s339650112.295319
+e339650116.078040
+r1
+xProcessPCH
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339650112#339650116#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#1995"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gidbdxofxylxmtbfctqcqegykcda/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s339650119.002479
+e339650121.616621
+r1
+xProcessPCH++
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339650119#339650121#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#2014"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-agqlacjmljqwfbfzwxajkipkauor/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fclcivpokfdasmcilgnbgwznmjvu/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+s339650118.689246
+e339650119.002013
+r1
+xProcessPCH++
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fclcivpokfdasmcilgnbgwznmjvu/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339650118#339650119#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#1993"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fclcivpokfdasmcilgnbgwznmjvu/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fjalsrharsyvusfotmpfiuovmqrz/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv7 c++ com.apple.compilers.gcc.4_2
+s339650121.617253
+e339650121.868109
+r1
+xProcessPCH++
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fjalsrharsyvusfotmpfiuovmqrz/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339650121#339650121#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#2004"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv7 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-fjalsrharsyvusfotmpfiuovmqrz/VirtualButtons-Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch.gch VirtualButtons/VirtualButtons-Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s339650116.078500
+e339650118.688639
+r1
+xProcessPCH++
+x/var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch.gch
+xVirtualButtons/VirtualButtons-Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile VirtualButtons/VirtualButtons-Prefix.pch339650116#339650118#0(0"0(0#0#108"/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch2529141392#2003"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility-inlines-hidden -gdwarf-2 -miphoneos-version-min=4.0 -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-generated-files.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-own-target-headers.hmap -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-all-target-headers.hmap -iquote /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DVDCovers-project-headers.hmap -F/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/include -I../../build/include -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources/armv6 -I/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/DVDCovers.build/Debug-iphoneos/DVDCovers.build/DerivedSources -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/VirtualButtons/VirtualButtons-Prefix.pch -o /var/folders/kW/kWK14wkEGaSJhSHb3t7EDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VirtualButtons-Prefix-gyuwggjyirjethdbosqbzgomexqj/VirtualButtons-Prefix.pch.gch0#
+
+CTouch /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+s339650132.027823
+e339650132.040658
+r1
+xTouch
+x/Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app
+lSLF07#2@108"Touch /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app339650132#339650132#0(0"0(0#0#0"2529141392#324"    cd /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mslhii/Development/iOS/qcar-ios-1-0-0/samples/VirtualButtons/build/Debug-iphoneos/DVDCovers.app0#
+

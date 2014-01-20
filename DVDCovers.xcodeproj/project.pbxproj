@@ -1,0 +1,458 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		15230E4913B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 15230E4813B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm */; };
+		158831C113606C8B0082B874 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 158831BE13606C8B0082B874 /* Default.png */; };
+		158831C213606C8B0082B874 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 158831BF13606C8B0082B874 /* Icon-Small.png */; };
+		158831C313606C8B0082B874 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 158831C013606C8B0082B874 /* Icon.png */; };
+		158A0C691355D1D4008B5D90 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0C681355D1D4008B5D90 /* UIKit.framework */; };
+		158A0C6B1355D1D4008B5D90 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0C6A1355D1D4008B5D90 /* Foundation.framework */; };
+		158A0C6D1355D1D4008B5D90 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0C6C1355D1D4008B5D90 /* CoreGraphics.framework */; };
+		158A0C6F1355D1D4008B5D90 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0C6E1355D1D4008B5D90 /* QuartzCore.framework */; };
+		158A0C711355D1D4008B5D90 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0C701355D1D4008B5D90 /* OpenGLES.framework */; };
+		158A0C7A1355D1D4008B5D90 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 158A0C791355D1D4008B5D90 /* main.m */; };
+		158A0C971355D2A4008B5D90 /* ARViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 158A0C941355D2A4008B5D90 /* ARViewController.m */; };
+		158A0C9B1355D655008B5D90 /* Texture.mm in Sources */ = {isa = PBXBuildFile; fileRef = 158A0C9A1355D655008B5D90 /* Texture.mm */; };
+		158A0C9F1355D735008B5D90 /* ShaderUtils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 158A0C9D1355D734008B5D90 /* ShaderUtils.cpp */; };
+		158A0CCF1355DA4F008B5D90 /* libQCAR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0CCE1355DA4F008B5D90 /* libQCAR.a */; };
+		158A0CD11355DA75008B5D90 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0CD01355DA75008B5D90 /* Security.framework */; };
+		158A0CD51355DAF8008B5D90 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0CD41355DAF8008B5D90 /* CoreVideo.framework */; };
+		158A0CD71355DB17008B5D90 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0CD61355DB16008B5D90 /* AVFoundation.framework */; };
+		158A0CD91355DB26008B5D90 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0CD81355DB26008B5D90 /* SystemConfiguration.framework */; };
+		158A0CDB1355DB52008B5D90 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 158A0CDA1355DB52008B5D90 /* CoreMedia.framework */; };
+		158A0CEA1355DC98008B5D90 /* config.xml in Resources */ = {isa = PBXBuildFile; fileRef = 158A0CE61355DC98008B5D90 /* config.xml */; };
+		158A0CEB1355DC98008B5D90 /* qcar-resources.dat in Resources */ = {isa = PBXBuildFile; fileRef = 158A0CE71355DC98008B5D90 /* qcar-resources.dat */; };
+		158A0CEC1355DC98008B5D90 /* TextureTeapotBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = 158A0CE81355DC98008B5D90 /* TextureTeapotBlue.png */; };
+		158A0CED1355DC98008B5D90 /* TextureTeapotBrass.png in Resources */ = {isa = PBXBuildFile; fileRef = 158A0CE91355DC98008B5D90 /* TextureTeapotBrass.png */; };
+		159668041355E6080010786A /* TextureTeapotGreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 159668011355E6080010786A /* TextureTeapotGreen.png */; };
+		159668051355E6080010786A /* TextureTeapotRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 159668021355E6080010786A /* TextureTeapotRed.png */; };
+		159668061355E6080010786A /* TextureTeapotYellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 159668031355E6080010786A /* TextureTeapotYellow.png */; };
+		15982348135F0B24005D176B /* EAGLView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 15982347135F0B24005D176B /* EAGLView.mm */; };
+		7106BC961437E268000079C4 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7106BC951437E268000079C4 /* MediaPlayer.framework */; };
+		7106BDB1143C1D0B000079C4 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7106BDB0143C1D0B000079C4 /* Reachability.m */; };
+		CCB28E2713C4B2AF0065CBB6 /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = CCB28E2613C4B2AF0065CBB6 /* Default-Landscape.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		15230E4813B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = VirtualButtonsAppDelegate.mm; sourceTree = "<group>"; };
+		158831BE13606C8B0082B874 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		158831BF13606C8B0082B874 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		158831C013606C8B0082B874 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		158A0C641355D1D4008B5D90 /* DVDCovers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DVDCovers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		158A0C681355D1D4008B5D90 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		158A0C6A1355D1D4008B5D90 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		158A0C6C1355D1D4008B5D90 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		158A0C6E1355D1D4008B5D90 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		158A0C701355D1D4008B5D90 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		158A0C741355D1D4008B5D90 /* DVDCovers-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DVDCovers-Info.plist"; sourceTree = "<group>"; };
+		158A0C781355D1D4008B5D90 /* VirtualButtons-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VirtualButtons-Prefix.pch"; sourceTree = "<group>"; };
+		158A0C791355D1D4008B5D90 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		158A0C7B1355D1D4008B5D90 /* VirtualButtonsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VirtualButtonsAppDelegate.h; sourceTree = "<group>"; };
+		158A0C811355D1D4008B5D90 /* CubeShader.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = CubeShader.fsh; path = VirtualButtons/Shaders/CubeShader.fsh; sourceTree = "<group>"; };
+		158A0C831355D1D4008B5D90 /* CubeShader.vsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = CubeShader.vsh; path = VirtualButtons/Shaders/CubeShader.vsh; sourceTree = "<group>"; };
+		158A0C851355D1D4008B5D90 /* EAGLView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EAGLView.h; sourceTree = "<group>"; };
+		158A0C931355D2A4008B5D90 /* ARViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARViewController.h; sourceTree = "<group>"; };
+		158A0C941355D2A4008B5D90 /* ARViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARViewController.m; sourceTree = "<group>"; };
+		158A0C991355D655008B5D90 /* Texture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Texture.h; sourceTree = "<group>"; };
+		158A0C9A1355D655008B5D90 /* Texture.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Texture.mm; sourceTree = "<group>"; };
+		158A0C9C1355D687008B5D90 /* Teapot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Teapot.h; sourceTree = "<group>"; };
+		158A0C9D1355D734008B5D90 /* ShaderUtils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShaderUtils.cpp; sourceTree = "<group>"; };
+		158A0C9E1355D734008B5D90 /* ShaderUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShaderUtils.h; sourceTree = "<group>"; };
+		158A0CCE1355DA4F008B5D90 /* libQCAR.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libQCAR.a; path = ../../build/lib/arm/libQCAR.a; sourceTree = SOURCE_ROOT; };
+		158A0CD01355DA75008B5D90 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		158A0CD21355DA86008B5D90 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		158A0CD41355DAF8008B5D90 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		158A0CD61355DB16008B5D90 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		158A0CD81355DB26008B5D90 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		158A0CDA1355DB52008B5D90 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		158A0CE61355DC98008B5D90 /* config.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = config.xml; sourceTree = "<group>"; };
+		158A0CE71355DC98008B5D90 /* qcar-resources.dat */ = {isa = PBXFileReference; lastKnownFileType = file; path = "qcar-resources.dat"; sourceTree = "<group>"; };
+		158A0CE81355DC98008B5D90 /* TextureTeapotBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextureTeapotBlue.png; sourceTree = "<group>"; };
+		158A0CE91355DC98008B5D90 /* TextureTeapotBrass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextureTeapotBrass.png; sourceTree = "<group>"; };
+		1595732F1357102B00721199 /* LineShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; name = LineShader.fsh; path = VirtualButtons/Shaders/LineShader.fsh; sourceTree = "<group>"; };
+		159573301357102B00721199 /* LineShader.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; name = LineShader.vsh; path = VirtualButtons/Shaders/LineShader.vsh; sourceTree = "<group>"; };
+		159668011355E6080010786A /* TextureTeapotGreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextureTeapotGreen.png; sourceTree = "<group>"; };
+		159668021355E6080010786A /* TextureTeapotRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextureTeapotRed.png; sourceTree = "<group>"; };
+		159668031355E6080010786A /* TextureTeapotYellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextureTeapotYellow.png; sourceTree = "<group>"; };
+		15982347135F0B24005D176B /* EAGLView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = EAGLView.mm; sourceTree = "<group>"; };
+		7106BC951437E268000079C4 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		7106BDB0143C1D0B000079C4 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		7106BDDA143C2BEB000079C4 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		CCB28E2613C4B2AF0065CBB6 /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape.png"; path = "Resources-iPad/Default-Landscape.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		158A0C611355D1D4008B5D90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				158A0CDB1355DB52008B5D90 /* CoreMedia.framework in Frameworks */,
+				158A0CD91355DB26008B5D90 /* SystemConfiguration.framework in Frameworks */,
+				158A0CD71355DB17008B5D90 /* AVFoundation.framework in Frameworks */,
+				158A0CD51355DAF8008B5D90 /* CoreVideo.framework in Frameworks */,
+				158A0CD11355DA75008B5D90 /* Security.framework in Frameworks */,
+				158A0CCF1355DA4F008B5D90 /* libQCAR.a in Frameworks */,
+				158A0C691355D1D4008B5D90 /* UIKit.framework in Frameworks */,
+				158A0C6B1355D1D4008B5D90 /* Foundation.framework in Frameworks */,
+				158A0C6D1355D1D4008B5D90 /* CoreGraphics.framework in Frameworks */,
+				158A0C6F1355D1D4008B5D90 /* QuartzCore.framework in Frameworks */,
+				158A0C711355D1D4008B5D90 /* OpenGLES.framework in Frameworks */,
+				7106BC961437E268000079C4 /* MediaPlayer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		150E05C8137442A60085C598 /* Resources-iPad */ = {
+			isa = PBXGroup;
+			children = (
+				CCB28E2613C4B2AF0065CBB6 /* Default-Landscape.png */,
+			);
+			name = "Resources-iPad";
+			sourceTree = "<group>";
+		};
+		158A0C591355D1D4008B5D90 = {
+			isa = PBXGroup;
+			children = (
+				159668071355E6280010786A /* Shaders */,
+				158A0CDC1355DC3A008B5D90 /* Resources */,
+				150E05C8137442A60085C598 /* Resources-iPad */,
+				158A0C721355D1D4008B5D90 /* VirtualButtons */,
+				158A0C671355D1D4008B5D90 /* Frameworks */,
+				158A0C651355D1D4008B5D90 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		158A0C651355D1D4008B5D90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				158A0C641355D1D4008B5D90 /* DVDCovers.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		158A0C671355D1D4008B5D90 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				158A0C681355D1D4008B5D90 /* UIKit.framework */,
+				158A0C6A1355D1D4008B5D90 /* Foundation.framework */,
+				158A0C6C1355D1D4008B5D90 /* CoreGraphics.framework */,
+				158A0C6E1355D1D4008B5D90 /* QuartzCore.framework */,
+				158A0C701355D1D4008B5D90 /* OpenGLES.framework */,
+				158A0CDA1355DB52008B5D90 /* CoreMedia.framework */,
+				158A0CD81355DB26008B5D90 /* SystemConfiguration.framework */,
+				158A0CD61355DB16008B5D90 /* AVFoundation.framework */,
+				158A0CD41355DAF8008B5D90 /* CoreVideo.framework */,
+				158A0CD21355DA86008B5D90 /* AVFoundation.framework */,
+				158A0CD01355DA75008B5D90 /* Security.framework */,
+				158A0CCE1355DA4F008B5D90 /* libQCAR.a */,
+				7106BC951437E268000079C4 /* MediaPlayer.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		158A0C721355D1D4008B5D90 /* VirtualButtons */ = {
+			isa = PBXGroup;
+			children = (
+				7106BDB0143C1D0B000079C4 /* Reachability.m */,
+				7106BDDA143C2BEB000079C4 /* Reachability.h */,
+				158A0C931355D2A4008B5D90 /* ARViewController.h */,
+				158A0C941355D2A4008B5D90 /* ARViewController.m */,
+				158A0C851355D1D4008B5D90 /* EAGLView.h */,
+				15982347135F0B24005D176B /* EAGLView.mm */,
+				158A0C9E1355D734008B5D90 /* ShaderUtils.h */,
+				158A0C9D1355D734008B5D90 /* ShaderUtils.cpp */,
+				158A0C991355D655008B5D90 /* Texture.h */,
+				158A0C9A1355D655008B5D90 /* Texture.mm */,
+				158A0C7B1355D1D4008B5D90 /* VirtualButtonsAppDelegate.h */,
+				15230E4813B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm */,
+				158A0C731355D1D4008B5D90 /* Supporting Files */,
+			);
+			path = VirtualButtons;
+			sourceTree = "<group>";
+		};
+		158A0C731355D1D4008B5D90 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				158A0C9C1355D687008B5D90 /* Teapot.h */,
+				158A0C741355D1D4008B5D90 /* DVDCovers-Info.plist */,
+				158A0C781355D1D4008B5D90 /* VirtualButtons-Prefix.pch */,
+				158A0C791355D1D4008B5D90 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		158A0CDC1355DC3A008B5D90 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				158831BE13606C8B0082B874 /* Default.png */,
+				158831BF13606C8B0082B874 /* Icon-Small.png */,
+				158831C013606C8B0082B874 /* Icon.png */,
+				158A0CE51355DC98008B5D90 /* assets */,
+			);
+			name = Resources;
+			path = VirtualButtons;
+			sourceTree = "<group>";
+		};
+		158A0CE51355DC98008B5D90 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				158A0CE61355DC98008B5D90 /* config.xml */,
+				158A0CE71355DC98008B5D90 /* qcar-resources.dat */,
+				158A0CE81355DC98008B5D90 /* TextureTeapotBlue.png */,
+				158A0CE91355DC98008B5D90 /* TextureTeapotBrass.png */,
+				159668011355E6080010786A /* TextureTeapotGreen.png */,
+				159668021355E6080010786A /* TextureTeapotRed.png */,
+				159668031355E6080010786A /* TextureTeapotYellow.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		159668071355E6280010786A /* Shaders */ = {
+			isa = PBXGroup;
+			children = (
+				158A0C811355D1D4008B5D90 /* CubeShader.fsh */,
+				158A0C831355D1D4008B5D90 /* CubeShader.vsh */,
+				1595732F1357102B00721199 /* LineShader.fsh */,
+				159573301357102B00721199 /* LineShader.vsh */,
+			);
+			name = Shaders;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		158A0C631355D1D4008B5D90 /* DVDCovers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 158A0C901355D1D4008B5D90 /* Build configuration list for PBXNativeTarget "DVDCovers" */;
+			buildPhases = (
+				158A0C601355D1D4008B5D90 /* Sources */,
+				158A0C611355D1D4008B5D90 /* Frameworks */,
+				158A0C621355D1D4008B5D90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DVDCovers;
+			productName = VirtualButtons;
+			productReference = 158A0C641355D1D4008B5D90 /* DVDCovers.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		158A0C5B1355D1D4008B5D90 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Qualcomm Cambridge Ltd";
+			};
+			buildConfigurationList = 158A0C5E1355D1D4008B5D90 /* Build configuration list for PBXProject "DVDCovers" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 158A0C591355D1D4008B5D90;
+			productRefGroup = 158A0C651355D1D4008B5D90 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				158A0C631355D1D4008B5D90 /* DVDCovers */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		158A0C621355D1D4008B5D90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				158A0CEA1355DC98008B5D90 /* config.xml in Resources */,
+				158A0CEB1355DC98008B5D90 /* qcar-resources.dat in Resources */,
+				158A0CEC1355DC98008B5D90 /* TextureTeapotBlue.png in Resources */,
+				158A0CED1355DC98008B5D90 /* TextureTeapotBrass.png in Resources */,
+				159668041355E6080010786A /* TextureTeapotGreen.png in Resources */,
+				159668051355E6080010786A /* TextureTeapotRed.png in Resources */,
+				159668061355E6080010786A /* TextureTeapotYellow.png in Resources */,
+				158831C113606C8B0082B874 /* Default.png in Resources */,
+				158831C213606C8B0082B874 /* Icon-Small.png in Resources */,
+				158831C313606C8B0082B874 /* Icon.png in Resources */,
+				CCB28E2713C4B2AF0065CBB6 /* Default-Landscape.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		158A0C601355D1D4008B5D90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				158A0C7A1355D1D4008B5D90 /* main.m in Sources */,
+				158A0C971355D2A4008B5D90 /* ARViewController.m in Sources */,
+				158A0C9B1355D655008B5D90 /* Texture.mm in Sources */,
+				158A0C9F1355D735008B5D90 /* ShaderUtils.cpp in Sources */,
+				15982348135F0B24005D176B /* EAGLView.mm in Sources */,
+				15230E4913B1EFB80073F1EB /* VirtualButtonsAppDelegate.mm in Sources */,
+				7106BDB1143C1D0B000079C4 /* Reachability.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		15869016135EE44C0040DCA7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "";
+				GCC_VERSION = 4.2;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = ../../build/include;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				LIBRARY_SEARCH_PATHS = ../../build/lib/arm;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Distribution;
+		};
+		15869017135EE44C0040DCA7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "VirtualButtons/VirtualButtons-Prefix.pch";
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				INFOPLIST_FILE = "VirtualButtons/DVDCovers-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				LIBRARY_SEARCH_PATHS = ../../build/lib/arm;
+				PRODUCT_NAME = DVDCovers;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+		158A0C8E1355D1D4008B5D90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = 4.2;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = ../../build/include;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				LIBRARY_SEARCH_PATHS = ../../build/lib/arm;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		158A0C8F1355D1D4008B5D90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "";
+				GCC_VERSION = 4.2;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = ../../build/include;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				LIBRARY_SEARCH_PATHS = ../../build/lib/arm;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		158A0C911355D1D4008B5D90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "VirtualButtons/VirtualButtons-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				INFOPLIST_FILE = "VirtualButtons/DVDCovers-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				LIBRARY_SEARCH_PATHS = ../../build/lib/arm;
+				PRODUCT_NAME = DVDCovers;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		158A0C921355D1D4008B5D90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "VirtualButtons/VirtualButtons-Prefix.pch";
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				INFOPLIST_FILE = "VirtualButtons/DVDCovers-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				LIBRARY_SEARCH_PATHS = ../../build/lib/arm;
+				PRODUCT_NAME = DVDCovers;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		158A0C5E1355D1D4008B5D90 /* Build configuration list for PBXProject "DVDCovers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				158A0C8E1355D1D4008B5D90 /* Debug */,
+				158A0C8F1355D1D4008B5D90 /* Release */,
+				15869016135EE44C0040DCA7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		158A0C901355D1D4008B5D90 /* Build configuration list for PBXNativeTarget "DVDCovers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				158A0C911355D1D4008B5D90 /* Debug */,
+				158A0C921355D1D4008B5D90 /* Release */,
+				15869017135EE44C0040DCA7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 158A0C5B1355D1D4008B5D90 /* Project object */;
+}
