@@ -1,4 +1,4 @@
 # dvdcovers
-Experiment to see if iOS supports streaming media over an augmented reality surface. Port of an older android app which was c
+Experiment to see if iOS supports streaming media over an augmented reality surface. Port of an older android app which was ca
 
 Dead project. QCAR is also known as Vuforia: https://www.vuforia.com/
